@@ -30,3 +30,4 @@ busybox4: IP:172.17.0.3 Gateway:172.17.0.1
 3. ping ip of "busybox4"
 
 In Kn02 befanden sich die beiden Docker Container im Bridge Netzwerk. Sie konnten zusammen über den Link kommunizieren.
+Nur die Container die im gleichen Netzwerk sind können miteinander mit namen kommunizieren. Wenn man mit Containern ausserhalb des netzwerkes kommunizieren möchte dann muss man dies mit der Ip Adresse tun.
