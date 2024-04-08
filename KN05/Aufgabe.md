@@ -24,7 +24,7 @@ echo "Henri" > /data/shared_file.txt
 # C)
 
 ![HTML Seite](1mount.png)
-![HTML Seite](3mount.png)
+![HTML Seite](3mounts.png)
 
 ```
 version: '3'
