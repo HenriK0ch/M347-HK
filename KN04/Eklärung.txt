@@ -1,0 +1,1 @@
+Weil wir im Image schon Variable werte hardcodiert haben wird es nicht gehen

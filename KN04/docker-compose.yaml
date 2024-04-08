@@ -11,7 +11,7 @@ networks:
 
 services:
   m347-kn04a-db:
-    image: mariadb:latest
+    image: henritbz/uek233hk:kn02-db
     container_name: m347-kn04a-db
     environment:
       - MARIADB_ROOT_PASSWORD=123
@@ -21,9 +21,7 @@ services:
       - "3306:3306"
 
   m347-kn04a-web:
-    build:
-      context: .
-      dockerfile: Dockerfile
+    image: henritbz/uek233hk:kn02-web
     container_name: m347-kn04a-web
     ports:
       - "80:80"
