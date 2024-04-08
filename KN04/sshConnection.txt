@@ -1,0 +1,4 @@
+ssh ubuntu@3.92.83.98 -i "C:\Users\Henri Koch\.ssh\Henri-1.pem" -o ServerAliveInterval=30
+# Standard-Benutzername für ubuntu-Systeme ist ubuntu!
+# Standard-Benutzername für amazon-Instanzen ist ec2-user!
+# Beispiel: ssh ubuntu@121.12.3.1 -i c:\Users\maxmuster\.ssh\maxmuster.pem -o ServerAliveInterval=30
