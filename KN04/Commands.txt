@@ -1,0 +1,3 @@
+docker compose build: Mit dem Werden die Images erstellt.
+docker compose create: Dieser Befehl erstellt die Container
+docker compose start: Mit dem Befehl starten wir die Container.
