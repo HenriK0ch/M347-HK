@@ -1,0 +1,5 @@
+docker volume create my_volume
+docker run -d --name container1 -v my_volume:/data nginx
+docker run -d --name container2 -v my_volume:/data nginx
+
+echo "Henri" > /data/shared_file.txt

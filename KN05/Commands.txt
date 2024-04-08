@@ -1,0 +1,1 @@
+docker run -d --name mein_container -v "C:\Users\Henri Koch\Documents\M347\KN05\shared":/data nginx
