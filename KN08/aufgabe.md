@@ -1,4 +1,4 @@
-# Bitte 0.1 %
+# Bitte 0.1 % der Aufgabe
 ![HTML Seite](DBeaverConnection.png)
 ![HTML Seite](npmRunBuild.png)
 ![HTML Seite](FrontendDockerContainer.png)
