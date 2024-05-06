@@ -1,4 +1,4 @@
-# Bitte 0.1 Punkte
+# Bitte 0.1 %
 ![HTML Seite](DBeaverConnection.png)
 ![HTML Seite](npmRunBuild.png)
 ![HTML Seite](FrontendDockerContainer.png)
