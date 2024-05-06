@@ -29,7 +29,7 @@ Ich musste den Port 30100 fü einkommenden Datenverkehr öffnen.
 
 ### Verbindung mit MongoDB Compass
 
-Es geht nicht weil wir die Ports dafür nicht geöffnet haben im AWS und im DB.yaml
+Es geht nicht weil wir die Ports dafür nicht geöffnet haben im AWS und im DB.yaml und weil wir der DB keinen NodePort gegeben haben und sie so nicht ansprechen können.
 
 ![HTML Seite](ChangedPort1.png)
 ![HTML Seite](ChangedPort2.png)
